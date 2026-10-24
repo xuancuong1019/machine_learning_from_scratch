@@ -47,4 +47,3 @@ print("\nFinal W:", W)
 print("Final b:", b)
 print("Final MSE:", np.mean((y_pred - y_true) ** 2))
 
-
